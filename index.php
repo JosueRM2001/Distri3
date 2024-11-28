@@ -43,7 +43,6 @@
 </head>
 <body>
     <h1>Tienda Online</h1>
-    <p>My local IP: {{ .LocalIP }}</p>
     <h2>Bienvenidos</h2>
 
     <table>
