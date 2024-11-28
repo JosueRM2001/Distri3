@@ -175,6 +175,13 @@
         <td>Sí</td>
         <td>40</td>
     </tr>
+    <tr>
+        <td>Pantalones</td>
+        <td>$5</td>
+        <td>Baja Calidad</td>
+        <td>Sí</td>
+        <td>40</td>
+    </tr>
         </tbody>
     </table>
 
