@@ -168,6 +168,13 @@
         <td>Sí</td>
         <td>3</td>
     </tr>
+    <tr>
+        <td>Tables</td>
+        <td>$500</td>
+        <td>Alta Calidad</td>
+        <td>Sí</td>
+        <td>40</td>
+    </tr>
         </tbody>
     </table>
 
