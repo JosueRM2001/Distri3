@@ -161,6 +161,13 @@
         <td>Sí</td>
         <td>3</td>
     </tr>
+    <tr>
+        <td>Celulares</td>
+        <td>$500</td>
+        <td>Alta Calidad</td>
+        <td>Sí</td>
+        <td>3</td>
+    </tr>
         </tbody>
     </table>
 
