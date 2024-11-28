@@ -3,10 +3,7 @@ name: SendChanges-to-EC2
 on:
   push:
     branches:
-      - main
-  pull_request:
-    branches:
-      - main
+      - test
 jobs:
   deploy:
     name: Deploy to EC2 on master branch push
